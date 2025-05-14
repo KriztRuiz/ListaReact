@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ListaReact/static/css/main.0797fe4d.css",
+    "main.js": "/ListaReact/static/js/main.b8f0a787.js",
+    "static/js/453.1bae1be9.chunk.js": "/ListaReact/static/js/453.1bae1be9.chunk.js",
+    "index.html": "/ListaReact/index.html",
+    "main.0797fe4d.css.map": "/ListaReact/static/css/main.0797fe4d.css.map",
+    "main.b8f0a787.js.map": "/ListaReact/static/js/main.b8f0a787.js.map",
+    "453.1bae1be9.chunk.js.map": "/ListaReact/static/js/453.1bae1be9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0797fe4d.css",
+    "static/js/main.b8f0a787.js"
+  ]
+}

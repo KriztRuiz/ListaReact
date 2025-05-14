@@ -1,0 +1,2 @@
+:root{--bg-light:#f0f0f0;--text-light:#202020;--bg-dark:#202020;--text-dark:#f0f0f0}body{font-family:sans-serif;margin:0}.app-light{background-color:#f0f0f0;background-color:var(--bg-light);color:#202020;color:var(--text-light)}.app-dark{background-color:#202020;background-color:var(--bg-dark);color:#f0f0f0;color:var(--text-dark)}.container{margin:2rem auto;max-width:600px;padding:1rem}button{border-radius:20px;cursor:pointer;margin-top:.5rem;padding:.5rem 1rem}
+/*# sourceMappingURL=main.0797fe4d.css.map*/
